@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: harmans497/react-app
+  repository: nginx
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
